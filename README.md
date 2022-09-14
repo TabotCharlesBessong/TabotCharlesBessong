@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on **4 Full stacks application**
 
-- 🌱 I’m currently learning **React NodeJs Python C++**
+- 🌱 I’m currently learning **ReactJs Python**
 
-- 👯 I’m looking to collaborate on **Web and Machine learning related Projects**
+- 👯 I’m looking to collaborate on **Web development Projects**
 
 - 🤝 I’m looking for help with **Node , React Material ui and Posgres sql**
 
-- 💬 Ask me about **Web and Machine Learning**
+- 💬 Ask me about **Web **
 
 - 📫 How to reach me **ebezebeatrice@gmail.com**
 
