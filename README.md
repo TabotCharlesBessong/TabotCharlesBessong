@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/tabot charles bessong" target="blank"><img src="https://img.shields.io/twitter/follow/tabot charles bessong?logo=twitter&style=for-the-badge" alt="tabot charles bessong" /></a> </p>
 
-- 🔭 I’m currently working on **4 Full stacks application**
+- 🔭 I’m currently working on **2 Full stacks application plus 1 Machine Learning application**
 
-- 🌱 I’m currently learning **ReactJs Python**
+- 🌱 I’m currently learning **ReactJs Python React Native**
 
 - 👯 I’m looking to collaborate on **Web development Projects**
 
 - 🤝 I’m looking for help with **Node , React Material ui and Posgres sql**
 
-- 💬 Ask me about **Web **
+- 💬 Ask me about **Web Machine Learning Data science and statistics**
 
 - 📫 How to reach me **ebezebeatrice@gmail.com**
 
