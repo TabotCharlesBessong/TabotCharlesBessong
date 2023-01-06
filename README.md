@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **2 Full stacks application plus 1 Machine Learning application**
 
-- 🌱 I’m currently learning **ReactJs Python React Native**
+- 🌱 I’m currently learning **Frontend and Machine Learning and TypeScript**
 
 - 👯 I’m looking to collaborate on **Web development Projects**
 
