@@ -21,6 +21,8 @@
 
 - ⚡ Fun fact **I am a slow learner at start**
 
+waka_22d19f91-8336-4620-b27e-72629d9131e0
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/tabot charles bessong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tabot charles bessong" height="30" width="40" /></a>
