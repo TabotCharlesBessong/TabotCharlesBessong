@@ -21,22 +21,7 @@
 
 - ⚡ Fun fact **I am a slow learner at start**
 
-  https://wakatime.com/badge/user/8247e2a5-f16f-487c-8616-bb3c60a356ab.svg
-  
-  [![wakatime](https://wakatime.com/badge/user/8247e2a5-f16f-487c-8616-bb3c60a356ab.svg)](https://wakatime.com/@8247e2a5-f16f-487c-8616-bb3c60a356ab)
-  
-  <a href="https://wakatime.com/@8247e2a5-f16f-487c-8616-bb3c60a356ab"><img src="https://wakatime.com/badge/user/8247e2a5-f16f-487c-8616-bb3c60a356ab.svg" alt="Total time coded since Jan 31 2023" /></a>
-  
-  !https://wakatime.com/badge/user/8247e2a5-f16f-487c-8616-bb3c60a356ab.svg!:https://wakatime.com/@8247e2a5-f16f-487c-8616-bb3c60a356ab
-  
-  {<img src="https://wakatime.com/badge/user/8247e2a5-f16f-487c-8616-bb3c60a356ab.svg" alt="wakatime" />}[https://wakatime.com/@8247e2a5-f16f-487c-8616-bb3c60a356ab]
-  
-  image:https://wakatime.com/badge/user/8247e2a5-f16f-487c-8616-bb3c60a356ab.svg["wakatime", link="https://wakatime.com/@8247e2a5-f16f-487c-8616-bb3c60a356ab"]
-  
-  .. image:: https://wakatime.com/badge/user/8247e2a5-f16f-487c-8616-bb3c60a356ab.svg
-    :target: https://wakatime.com/@8247e2a5-f16f-487c-8616-bb3c60a356ab
-    
-    =for html <a href="https://wakatime.com/@8247e2a5-f16f-487c-8616-bb3c60a356ab"><img src="https://wakatime.com/badge/user/8247e2a5-f16f-487c-8616-bb3c60a356ab.svg"></a>
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
