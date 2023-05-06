@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Charles Bessong Tabot</h1>
-<h3 align="center">A passionate full stack developer from cameroon</h3>
+<h3 align="center">A passionate full stack and machine learning developer from cameroon</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tabotcharlesbessong&label=Profile%20views&color=0e75b6&style=flat" alt="tabotcharlesbessong" /> </p>
 
@@ -7,19 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/tabot charles bessong" target="blank"><img src="https://img.shields.io/twitter/follow/tabot charles bessong?logo=twitter&style=for-the-badge" alt="tabot charles bessong" /></a> </p>
 
-- 🔭 I’m currently working on **2 Full stacks application plus 1 Machine Learning application**
+- 🔭 I’m currently working on **1 Full stacks application plus 1 Machine Learning application**
 
-- 🌱 I’m currently learning **Frontend and Machine Learning and TypeScript**
+- 🌱 I’m currently learning **Frontend and Machine Learning and TypeScript and AWS**
 
-- 👯 I’m looking to collaborate on **Web development Projects**
+- 👯 I’m looking to collaborate on **Web development Projects and Machine learning projects**
 
-- 🤝 I’m looking for help with **Node , React Material ui and Posgres sql**
+- 🤝 I’m looking for help with **Node , React Material ui and Posgres sql and scikit learn**
 
-- 💬 Ask me about **Web Machine Learning Data science and statistics**
+- 💬 Ask me about **Web, Machine Learning Data science and statistics**
 
 - 📫 How to reach me **ebezebeatrice@gmail.com**
 
-- ⚡ Fun fact **I am a slow learner at start**
+- ⚡ Fun fact **I am a slow learner at start, but my speed increases exponentially**
 
  [![wakatime](https://wakatime.com/badge/user/8247e2a5-f16f-487c-8616-bb3c60a356ab.svg)](https://wakatime.com/@8247e2a5-f16f-487c-8616-bb3c60a356ab)
  
