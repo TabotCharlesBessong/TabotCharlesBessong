@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/tabot charles bessong" target="blank"><img src="https://img.shields.io/twitter/follow/tabot charles bessong?logo=twitter&style=for-the-badge" alt="tabot charles bessong" /></a> </p>
 
-- 🔭 I’m currently working on **1 Full stacks application plus 1 Machine Learning application**
+- 🔭 I’m currently working on **4 Full stacks application**
 
-- 🌱 I’m currently learning **Frontend and Machine Learning and TypeScript and AWS**
+- 🌱 I’m currently learning **Backend with Nest JS and Machine Learning and TypeScript and AWS**
 
 - 👯 I’m looking to collaborate on **Web development Projects and Machine learning projects**
 
-- 🤝 I’m looking for help with **Node , React Material ui and Posgres sql and scikit learn**
+- 🤝 I’m looking for help with **Node , NestJS and TypeORM and scikit learn**
 
 - 💬 Ask me about **Web, Machine Learning Data science and statistics**
 
