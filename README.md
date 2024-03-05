@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **4 Full stacks application**
 
-- 🌱 I’m currently learning **Backend with Nest JS and Machine Learning and TypeScript and AWS**
+- 🌱 I’m currently learning **Backend with Nest JS and Machine Learning and TypeScript Deep Learning**
 
 - 👯 I’m looking to collaborate on **Web development Projects and Machine learning projects**
 
