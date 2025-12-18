@@ -25,6 +25,8 @@
  
  ![https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api/wakatime?username=TabotCharles&theme=tokyonight&hide_border=true&line_height=30/)
 
+ <a href="https://wakatime.com/@8247e2a5-f16f-487c-8616-bb3c60a356ab"><img src="https://wakatime.com/badge/user/8247e2a5-f16f-487c-8616-bb3c60a356ab.svg" alt="Total time coded since Jan 31 2023" /></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/tabot charles bessong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tabot charles bessong" height="30" width="40" /></a>
